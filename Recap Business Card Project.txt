@@ -1,0 +1,9 @@
+Recap Business Card Project
+
+Why React ?
+JSX ?
+Constum Components 
+Styling to React
+Static pages
+
+
